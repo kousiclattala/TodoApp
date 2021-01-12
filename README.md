@@ -4,9 +4,9 @@ This project is a simple Todo App with check, uncheck and delete options.
 
 ## App Images
 
-- [Initial App](./images/image1.jpg)
+- [Initial App](images/image1.jpg)
 
-- [After adding Todo](./images/ad-todo.jpg)
+- [After adding Todo](images/ad-todo.jpg)
 
 ## Development server
 
