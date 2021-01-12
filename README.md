@@ -8,7 +8,7 @@ This project is a simple Todo App with check, uncheck and delete options.
   ![Initial App](./images/image-1.jpg)
 
 - After Adding Todo
-  ![After adding Todo](./images/ad-todo.jpg)
+  ![After adding Todo](./images/add-todo.jpg)
 
 ## Topics Learned
 
